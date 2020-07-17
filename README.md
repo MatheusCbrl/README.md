@@ -1,6 +1,8 @@
 # Readme-Instructions
 
-https://blog.rocketseat.com.br/o-que-e-readme-e-porque-e-tao-importante/
+Here you can have more instructionS:
+
+[RocketSeat Tutorial](https://blog.rocketseat.com.br/o-que-e-readme-e-porque-e-tao-importante/) 
 
 ## Installation
 
