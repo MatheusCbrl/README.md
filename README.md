@@ -1,6 +1,6 @@
 # Readme-Instructions
 
-Here you can have more instructionS:
+Here you can have more instructions:
 
 [RocketSeat Tutorial](https://blog.rocketseat.com.br/o-que-e-readme-e-porque-e-tao-importante/) 
 
